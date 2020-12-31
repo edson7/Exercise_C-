@@ -1,0 +1,13 @@
+\\MYCLOUDEX2ULTRA\edson\Programming\Exercise_C#\Exercise_CSharp\Inverts_characters_string\bin\Debug\netcoreapp3.1\1_Inverts_characters_string.exe
+\\MYCLOUDEX2ULTRA\edson\Programming\Exercise_C#\Exercise_CSharp\Inverts_characters_string\bin\Debug\netcoreapp3.1\1_Inverts_characters_string.deps.json
+\\MYCLOUDEX2ULTRA\edson\Programming\Exercise_C#\Exercise_CSharp\Inverts_characters_string\bin\Debug\netcoreapp3.1\1_Inverts_characters_string.runtimeconfig.json
+\\MYCLOUDEX2ULTRA\edson\Programming\Exercise_C#\Exercise_CSharp\Inverts_characters_string\bin\Debug\netcoreapp3.1\1_Inverts_characters_string.runtimeconfig.dev.json
+\\MYCLOUDEX2ULTRA\edson\Programming\Exercise_C#\Exercise_CSharp\Inverts_characters_string\bin\Debug\netcoreapp3.1\1_Inverts_characters_string.dll
+\\MYCLOUDEX2ULTRA\edson\Programming\Exercise_C#\Exercise_CSharp\Inverts_characters_string\bin\Debug\netcoreapp3.1\1_Inverts_characters_string.pdb
+\\MYCLOUDEX2ULTRA\edson\Programming\Exercise_C#\Exercise_CSharp\Inverts_characters_string\obj\Debug\netcoreapp3.1\1_Inverts_characters_string.AssemblyInfoInputs.cache
+\\MYCLOUDEX2ULTRA\edson\Programming\Exercise_C#\Exercise_CSharp\Inverts_characters_string\obj\Debug\netcoreapp3.1\1_Inverts_characters_string.AssemblyInfo.cs
+\\MYCLOUDEX2ULTRA\edson\Programming\Exercise_C#\Exercise_CSharp\Inverts_characters_string\obj\Debug\netcoreapp3.1\1_Inverts_characters_string.csproj.CoreCompileInputs.cache
+\\MYCLOUDEX2ULTRA\edson\Programming\Exercise_C#\Exercise_CSharp\Inverts_characters_string\obj\Debug\netcoreapp3.1\1_Inverts_characters_string.dll
+\\MYCLOUDEX2ULTRA\edson\Programming\Exercise_C#\Exercise_CSharp\Inverts_characters_string\obj\Debug\netcoreapp3.1\1_Inverts_characters_string.pdb
+\\MYCLOUDEX2ULTRA\edson\Programming\Exercise_C#\Exercise_CSharp\Inverts_characters_string\obj\Debug\netcoreapp3.1\1_Inverts_characters_string.genruntimeconfig.cache
+\\MYCLOUDEX2ULTRA\edson\Programming\Exercise_C#\Exercise_CSharp\Inverts_characters_string\obj\Debug\netcoreapp3.1\1_Inverts_characters_string.csprojAssemblyReference.cache

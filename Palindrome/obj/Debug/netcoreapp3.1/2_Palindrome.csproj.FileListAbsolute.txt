@@ -1,0 +1,13 @@
+\\MYCLOUDEX2ULTRA\edson\Programming\Exercise_C#\Exercise_CSharp\Palindrome\bin\Debug\netcoreapp3.1\2_Palindrome.exe
+\\MYCLOUDEX2ULTRA\edson\Programming\Exercise_C#\Exercise_CSharp\Palindrome\bin\Debug\netcoreapp3.1\2_Palindrome.deps.json
+\\MYCLOUDEX2ULTRA\edson\Programming\Exercise_C#\Exercise_CSharp\Palindrome\bin\Debug\netcoreapp3.1\2_Palindrome.runtimeconfig.json
+\\MYCLOUDEX2ULTRA\edson\Programming\Exercise_C#\Exercise_CSharp\Palindrome\bin\Debug\netcoreapp3.1\2_Palindrome.runtimeconfig.dev.json
+\\MYCLOUDEX2ULTRA\edson\Programming\Exercise_C#\Exercise_CSharp\Palindrome\bin\Debug\netcoreapp3.1\2_Palindrome.dll
+\\MYCLOUDEX2ULTRA\edson\Programming\Exercise_C#\Exercise_CSharp\Palindrome\bin\Debug\netcoreapp3.1\2_Palindrome.pdb
+\\MYCLOUDEX2ULTRA\edson\Programming\Exercise_C#\Exercise_CSharp\Palindrome\obj\Debug\netcoreapp3.1\2_Palindrome.AssemblyInfoInputs.cache
+\\MYCLOUDEX2ULTRA\edson\Programming\Exercise_C#\Exercise_CSharp\Palindrome\obj\Debug\netcoreapp3.1\2_Palindrome.AssemblyInfo.cs
+\\MYCLOUDEX2ULTRA\edson\Programming\Exercise_C#\Exercise_CSharp\Palindrome\obj\Debug\netcoreapp3.1\2_Palindrome.csproj.CoreCompileInputs.cache
+\\MYCLOUDEX2ULTRA\edson\Programming\Exercise_C#\Exercise_CSharp\Palindrome\obj\Debug\netcoreapp3.1\2_Palindrome.dll
+\\MYCLOUDEX2ULTRA\edson\Programming\Exercise_C#\Exercise_CSharp\Palindrome\obj\Debug\netcoreapp3.1\2_Palindrome.pdb
+\\MYCLOUDEX2ULTRA\edson\Programming\Exercise_C#\Exercise_CSharp\Palindrome\obj\Debug\netcoreapp3.1\2_Palindrome.genruntimeconfig.cache
+\\MYCLOUDEX2ULTRA\edson\Programming\Exercise_C#\Exercise_CSharp\Palindrome\obj\Debug\netcoreapp3.1\2_Palindrome.csprojAssemblyReference.cache

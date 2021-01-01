@@ -2,7 +2,7 @@
 *********************************************************************
 * Name: Edson Lopes dos Santos
 * Date: 30/12/2020
-* Description: List of exercises in C #
+* Description: Palindrme #
 * Observation :  Programming concepts in C #
 * Start Project: 30/12/2020
 * End Project :  30/12/2020
@@ -11,15 +11,26 @@
 */
 
 using System;
+using System.Text;
 
-namespace Exercise_CSharp
+namespace PalindromeString
 {
     class Program
     {
         static void Main(string[] args)
         {
-            // 1 - First Exercise inversion of a sentence.
-            // 2 - Palindrome.
+            PalindromeWord word = new PalindromeWord();
+
+            string palindrome = "ana";
+
+            string traiteWord = word.EstPalindrome(palindrome);
+
+            bool result2 = word.PalindromeVraiFaux(traiteWord, palindrome);
+
+            Console.WriteLine(result2);
+
+            Console.ReadKey();
+
         }
     }
 }

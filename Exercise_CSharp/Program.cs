@@ -20,6 +20,7 @@ namespace Exercise_CSharp
         {
             // 1 - First Exercise inversion of a sentence.
             // 2 - Palindrome.
+            // 3 - Returns true if it is prime and false otherwise
         }
     }
 }

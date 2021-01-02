@@ -1,4 +1,16 @@
-﻿using System;
+﻿/*
+*********************************************************************
+* Name: Edson Lopes dos Santos
+* Date: 30/12/2020
+* Description: Palindrome #
+* Observation :  Programming concepts in C #
+* Start Project: 30/12/2020
+* End Project :  30/12/2020
+* Review:1.0
+*********************************************************************
+*/
+
+using System;
 using System.Collections.Generic;
 using System.Text;
 
@@ -17,6 +29,7 @@ namespace PalindromeString
             }
 
             return pal.ToString();
+            
         }
 
       public bool PalindromeVraiFaux(string traiterWord, string palindrome)

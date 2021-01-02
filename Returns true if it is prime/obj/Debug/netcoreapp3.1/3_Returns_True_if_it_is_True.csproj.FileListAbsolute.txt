@@ -1,0 +1,13 @@
+\\MYCLOUDEX2ULTRA\edson\Programming\Exercise_C#\Exercise_CSharp\Returns true if it is prime\bin\Debug\netcoreapp3.1\3_Returns_True_if_it_is_True.exe
+\\MYCLOUDEX2ULTRA\edson\Programming\Exercise_C#\Exercise_CSharp\Returns true if it is prime\bin\Debug\netcoreapp3.1\3_Returns_True_if_it_is_True.deps.json
+\\MYCLOUDEX2ULTRA\edson\Programming\Exercise_C#\Exercise_CSharp\Returns true if it is prime\bin\Debug\netcoreapp3.1\3_Returns_True_if_it_is_True.runtimeconfig.json
+\\MYCLOUDEX2ULTRA\edson\Programming\Exercise_C#\Exercise_CSharp\Returns true if it is prime\bin\Debug\netcoreapp3.1\3_Returns_True_if_it_is_True.runtimeconfig.dev.json
+\\MYCLOUDEX2ULTRA\edson\Programming\Exercise_C#\Exercise_CSharp\Returns true if it is prime\bin\Debug\netcoreapp3.1\3_Returns_True_if_it_is_True.dll
+\\MYCLOUDEX2ULTRA\edson\Programming\Exercise_C#\Exercise_CSharp\Returns true if it is prime\bin\Debug\netcoreapp3.1\3_Returns_True_if_it_is_True.pdb
+\\MYCLOUDEX2ULTRA\edson\Programming\Exercise_C#\Exercise_CSharp\Returns true if it is prime\obj\Debug\netcoreapp3.1\3_Returns_True_if_it_is_True.csprojAssemblyReference.cache
+\\MYCLOUDEX2ULTRA\edson\Programming\Exercise_C#\Exercise_CSharp\Returns true if it is prime\obj\Debug\netcoreapp3.1\3_Returns_True_if_it_is_True.AssemblyInfoInputs.cache
+\\MYCLOUDEX2ULTRA\edson\Programming\Exercise_C#\Exercise_CSharp\Returns true if it is prime\obj\Debug\netcoreapp3.1\3_Returns_True_if_it_is_True.AssemblyInfo.cs
+\\MYCLOUDEX2ULTRA\edson\Programming\Exercise_C#\Exercise_CSharp\Returns true if it is prime\obj\Debug\netcoreapp3.1\3_Returns_True_if_it_is_True.csproj.CoreCompileInputs.cache
+\\MYCLOUDEX2ULTRA\edson\Programming\Exercise_C#\Exercise_CSharp\Returns true if it is prime\obj\Debug\netcoreapp3.1\3_Returns_True_if_it_is_True.dll
+\\MYCLOUDEX2ULTRA\edson\Programming\Exercise_C#\Exercise_CSharp\Returns true if it is prime\obj\Debug\netcoreapp3.1\3_Returns_True_if_it_is_True.pdb
+\\MYCLOUDEX2ULTRA\edson\Programming\Exercise_C#\Exercise_CSharp\Returns true if it is prime\obj\Debug\netcoreapp3.1\3_Returns_True_if_it_is_True.genruntimeconfig.cache

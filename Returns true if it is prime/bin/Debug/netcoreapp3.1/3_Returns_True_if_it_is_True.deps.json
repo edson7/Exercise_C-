@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "3_Returns_True_if_it_is_True/1.0.0": {
+        "runtime": {
+          "3_Returns_True_if_it_is_True.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "3_Returns_True_if_it_is_True/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

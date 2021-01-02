@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1_Inverts_characters_string
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2_Palindrome", "Palindrome\2_Palindrome.csproj", "{F67798F8-8DBA-4F87-AF44-AB41D46A685E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3_Returns_True_if_it_is_True", "Returns true if it is prime\3_Returns_True_if_it_is_True.csproj", "{CE882B0C-7DC2-4916-90E8-9CBB6D00A12E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3_Returns_True_if_it_is_True", "Returns true if it is prime\3_Returns_True_if_it_is_True.csproj", "{CE882B0C-7DC2-4916-90E8-9CBB6D00A12E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4_Welcome_2021", "Welcome 2021\4_Welcome_2021.csproj", "{EEE01872-793C-4D60-B329-73884950888D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{CE882B0C-7DC2-4916-90E8-9CBB6D00A12E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE882B0C-7DC2-4916-90E8-9CBB6D00A12E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE882B0C-7DC2-4916-90E8-9CBB6D00A12E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEE01872-793C-4D60-B329-73884950888D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEE01872-793C-4D60-B329-73884950888D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEE01872-793C-4D60-B329-73884950888D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEE01872-793C-4D60-B329-73884950888D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

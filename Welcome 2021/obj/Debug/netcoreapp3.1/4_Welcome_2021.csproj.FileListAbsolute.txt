@@ -1,0 +1,13 @@
+\\MYCLOUDEX2ULTRA\edson\Programming\Exercise_C#\Exercise_CSharp\Welcome 2021\bin\Debug\netcoreapp3.1\4_Welcome_2021.exe
+\\MYCLOUDEX2ULTRA\edson\Programming\Exercise_C#\Exercise_CSharp\Welcome 2021\bin\Debug\netcoreapp3.1\4_Welcome_2021.deps.json
+\\MYCLOUDEX2ULTRA\edson\Programming\Exercise_C#\Exercise_CSharp\Welcome 2021\bin\Debug\netcoreapp3.1\4_Welcome_2021.runtimeconfig.json
+\\MYCLOUDEX2ULTRA\edson\Programming\Exercise_C#\Exercise_CSharp\Welcome 2021\bin\Debug\netcoreapp3.1\4_Welcome_2021.runtimeconfig.dev.json
+\\MYCLOUDEX2ULTRA\edson\Programming\Exercise_C#\Exercise_CSharp\Welcome 2021\bin\Debug\netcoreapp3.1\4_Welcome_2021.dll
+\\MYCLOUDEX2ULTRA\edson\Programming\Exercise_C#\Exercise_CSharp\Welcome 2021\bin\Debug\netcoreapp3.1\4_Welcome_2021.pdb
+\\MYCLOUDEX2ULTRA\edson\Programming\Exercise_C#\Exercise_CSharp\Welcome 2021\obj\Debug\netcoreapp3.1\4_Welcome_2021.AssemblyInfoInputs.cache
+\\MYCLOUDEX2ULTRA\edson\Programming\Exercise_C#\Exercise_CSharp\Welcome 2021\obj\Debug\netcoreapp3.1\4_Welcome_2021.AssemblyInfo.cs
+\\MYCLOUDEX2ULTRA\edson\Programming\Exercise_C#\Exercise_CSharp\Welcome 2021\obj\Debug\netcoreapp3.1\4_Welcome_2021.csproj.CoreCompileInputs.cache
+\\MYCLOUDEX2ULTRA\edson\Programming\Exercise_C#\Exercise_CSharp\Welcome 2021\obj\Debug\netcoreapp3.1\4_Welcome_2021.dll
+\\MYCLOUDEX2ULTRA\edson\Programming\Exercise_C#\Exercise_CSharp\Welcome 2021\obj\Debug\netcoreapp3.1\4_Welcome_2021.pdb
+\\MYCLOUDEX2ULTRA\edson\Programming\Exercise_C#\Exercise_CSharp\Welcome 2021\obj\Debug\netcoreapp3.1\4_Welcome_2021.genruntimeconfig.cache
+\\MYCLOUDEX2ULTRA\edson\Programming\Exercise_C#\Exercise_CSharp\Welcome 2021\obj\Debug\netcoreapp3.1\4_Welcome_2021.csprojAssemblyReference.cache
